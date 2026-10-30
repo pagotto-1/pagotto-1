@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pagotto 👋
 
-![Pagotto GitHub stats](https://github-readme-stats.vercel.app/api?username=1&show_icons=true&theme=tokyonight)
+![Pagotto GitHub stats](https://github-readme-stats.vercel.app/api?username=pagotto-1&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pagotto-1&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
